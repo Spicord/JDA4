@@ -34,7 +34,7 @@ import net.dv8tion.jda.internal.requests.Route;
 import net.dv8tion.jda.internal.utils.Checks;
 import net.dv8tion.jda.internal.utils.JDALogger;
 import org.apache.commons.collections4.map.ListOrderedMap;
-import org.slf4j.Logger;
+import org.spicord.log.Logger;
 
 import javax.annotation.CheckReturnValue;
 import javax.annotation.Nonnull;

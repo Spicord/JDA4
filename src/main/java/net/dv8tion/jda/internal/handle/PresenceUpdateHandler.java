@@ -35,7 +35,7 @@ import net.dv8tion.jda.internal.entities.MemberPresenceImpl;
 import net.dv8tion.jda.internal.utils.Helpers;
 import net.dv8tion.jda.internal.utils.JDALogger;
 import net.dv8tion.jda.internal.utils.UnlockHook;
-import org.slf4j.Logger;
+import org.spicord.log.Logger;
 
 import javax.annotation.Nullable;
 import java.util.ArrayList;

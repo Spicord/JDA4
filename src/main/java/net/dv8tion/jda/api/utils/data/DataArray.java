@@ -28,8 +28,8 @@ import net.dv8tion.jda.api.utils.data.etf.ExTermEncoder;
 import net.dv8tion.jda.internal.utils.Checks;
 import net.dv8tion.jda.internal.utils.Helpers;
 import org.jetbrains.annotations.Contract;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import org.spicord.log.Logger;
+import org.spicord.log.LoggerFactory;
 
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
